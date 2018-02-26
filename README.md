@@ -9,4 +9,4 @@
 
 #### 2 sklearn_cv_rf.ipynb
 - Use cross-validation to make sure your model generalizes to new data
-- Use parameter tuning and grid search to select the best performing model out of several different classification algorithms
+- Use parameter tuning and grid search to select the best performing model out of several different RandomForestClassifier
